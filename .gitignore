@@ -1,3 +1,6 @@
 **/takeout
 **/Takeout
 .DS_Store
+*.SVG
+*.svg
+goog-maps-plotted.svg
